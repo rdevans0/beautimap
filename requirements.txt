@@ -1,0 +1,5 @@
+wheel
+osmnx==1.1.1
+Pillow
+numpy==1.20.0
+
