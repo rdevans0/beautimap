@@ -61,7 +61,7 @@ python3 beautimap.py --config example_configs/rome_italy.py --replace_color buil
 python3 beautimap.py --config example_configs/rome_italy.py --size 1024 1024
 ```
 
-New color schemes are easy to create by copying an existing color scheme in the ()[colorschemes] folder. 
+New color schemes are easy to create by copying an existing color scheme in the [](colorschemes) folder. 
 The format is a python dict of `'object_type': 'color'`. 
 
 More advanced configuration, such as changing color mappings of some objects, the ratios of road widths, and the groupings of roads must be changed by modifying [beautimap.py](beautimap.py).
